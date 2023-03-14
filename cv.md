@@ -6,7 +6,6 @@ _____________________
 * E-mail: asus2211@gmail.com
 * Telegram: @darkzend
 * Github: @DmitryZD
-
 _____________________
 ## Front-End Developer
 ### My Stack
